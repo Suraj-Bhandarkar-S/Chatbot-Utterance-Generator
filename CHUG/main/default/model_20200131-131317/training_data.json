@@ -1,0 +1,4065 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 10,
+            "end": 26,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Providemy Checking Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Saving Balance "
+      },
+      {
+        "intent": "Bank",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "Checking Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Showmy Checking Balance "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 19,
+            "end": 32,
+            "value": "Self Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "I like to make Self Transfer "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "I like to make Transfer "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 18,
+            "end": 32,
+            "value": "Transfer money",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "I like to make Transfer money "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 23,
+            "end": 36,
+            "value": "Self Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "Could like to make Self Transfer "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 23,
+            "end": 31,
+            "value": "Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "Could like to make Transfer "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 22,
+            "end": 36,
+            "value": "Transfer money",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "Could like to make Transfer money "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 23,
+            "end": 36,
+            "value": "Self Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "Would like to make Self Transfer "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 23,
+            "end": 31,
+            "value": "Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "Would like to make Transfer "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 22,
+            "end": 36,
+            "value": "Transfer money",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "Would like to make Transfer money "
+      },
+      {
+        "intent": "BankBalance",
+        "entities": [
+          {
+            "start": 4,
+            "end": 28,
+            "value": "Checking Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Get Checking Account Balance "
+      },
+      {
+        "intent": "BankBalance",
+        "entities": [
+          {
+            "start": 4,
+            "end": 27,
+            "value": "Savings Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Get Savings Account Balance "
+      },
+      {
+        "intent": "BankBalance",
+        "entities": [
+          {
+            "start": 8,
+            "end": 32,
+            "value": "Checking Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Provide Checking Account Balance "
+      },
+      {
+        "intent": "BankBalance",
+        "entities": [
+          {
+            "start": 8,
+            "end": 31,
+            "value": "Savings Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Provide Savings Account Balance "
+      },
+      {
+        "intent": "BankBalance",
+        "entities": [
+          {
+            "start": 5,
+            "end": 29,
+            "value": "Checking Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Show Checking Account Balance "
+      },
+      {
+        "intent": "BankBalance",
+        "entities": [
+          {
+            "start": 5,
+            "end": 28,
+            "value": "Savings Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": "Show Savings Account Balance "
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "city",
+            "start": 29,
+            "value": "san francisco"
+          }
+        ],
+        "text": "places to eat in the area of san francisco"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "city",
+            "start": 29,
+            "value": "new york"
+          }
+        ],
+        "text": "places to eat in the area of new york"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 41,
+            "entity": "city",
+            "start": 28,
+            "value": "san francisco"
+          }
+        ],
+        "text": "where to eat in the area of san francisco"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 53,
+            "entity": "city",
+            "start": 40,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hey plz find restaurants in the area of san francisco"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "city",
+            "start": 24,
+            "value": "new york"
+          }
+        ],
+        "text": "where to eat located at new york"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "city",
+            "start": 29,
+            "value": "new york"
+          }
+        ],
+        "text": "please find restaurants near new york thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 49,
+            "entity": "city",
+            "start": 41,
+            "value": "new york"
+          }
+        ],
+        "text": "i'm looking for places to eat located at new york"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 59,
+            "entity": "city",
+            "start": 52,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hey plz i'm looking for where to eat in the area of atlanta city thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 61,
+            "entity": "city",
+            "start": 48,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hey i'm looking for where to eat in the area of san francisco thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 54,
+            "entity": "city",
+            "start": 46,
+            "value": "new york"
+          }
+        ],
+        "text": "hello please find where to eat in the area of new york"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 48,
+            "entity": "city",
+            "start": 41,
+            "value": "atlanta"
+          }
+        ],
+        "text": "please i'm looking for where to eat near atlanta thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "city",
+            "start": 24,
+            "value": "san francisco"
+          }
+        ],
+        "text": "where to eat located at san francisco"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 45,
+            "entity": "city",
+            "start": 32,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hi plz places to eat located at san francisco city"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 52,
+            "entity": "city",
+            "start": 44,
+            "value": "new york"
+          }
+        ],
+        "text": "hello plz i'm looking for where to eat near new york city thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 51,
+            "entity": "city",
+            "start": 38,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hi pls help me find where to eat near san francisco"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 51,
+            "entity": "city",
+            "start": 38,
+            "value": "san francisco"
+          }
+        ],
+        "text": "pls i'm looking for where to eat near san francisco thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 34,
+            "entity": "city",
+            "start": 27,
+            "value": "atlanta"
+          }
+        ],
+        "text": "restaurants in the area of atlanta"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 25,
+            "entity": "city",
+            "start": 18,
+            "value": "atlanta"
+          }
+        ],
+        "text": "where to eat near atlanta"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 57,
+            "entity": "city",
+            "start": 44,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hello help me find places to eat located at san francisco thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 35,
+            "entity": "city",
+            "start": 27,
+            "value": "new york"
+          }
+        ],
+        "text": "restaurants in the area of new york"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "city",
+            "start": 25,
+            "value": "atlanta"
+          }
+        ],
+        "text": "places to eat located at atlanta"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "city",
+            "start": 17,
+            "value": "san francisco"
+          }
+        ],
+        "text": "restaurants near san francisco"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 43,
+            "entity": "city",
+            "start": 36,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hi pls places to eat in the area of atlanta thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 26,
+            "entity": "city",
+            "start": 19,
+            "value": "atlanta"
+          }
+        ],
+        "text": "places to eat near atlanta"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "city",
+            "start": 34,
+            "value": "new york"
+          }
+        ],
+        "text": "hello find restaurants located at new york city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 59,
+            "entity": "city",
+            "start": 46,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hello please find where to eat in the area of san francisco thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 31,
+            "entity": "city",
+            "start": 18,
+            "value": "san francisco"
+          }
+        ],
+        "text": "where to eat near san francisco"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 53,
+            "entity": "city",
+            "start": 46,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hello pls help me find restaurants located at atlanta thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "city",
+            "start": 39,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hi pls help me find places to eat near atlanta"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "city",
+            "start": 29,
+            "value": "new york"
+          }
+        ],
+        "text": "hi plz find restaurants near new york city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 48,
+            "entity": "city",
+            "start": 40,
+            "value": "new york"
+          }
+        ],
+        "text": "hi help me find where to eat located at new york city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 47,
+            "entity": "city",
+            "start": 39,
+            "value": "new york"
+          }
+        ],
+        "text": "hi pls help me find places to eat near new york city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 50,
+            "entity": "city",
+            "start": 42,
+            "value": "new york"
+          }
+        ],
+        "text": "hey please help me find where to eat near new york thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 58,
+            "entity": "city",
+            "start": 51,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hi plz i'm looking for where to eat in the area of atlanta city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "city",
+            "start": 23,
+            "value": "atlanta"
+          }
+        ],
+        "text": "restaurants located at atlanta"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 54,
+            "entity": "city",
+            "start": 47,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hello plz help me find where to eat located at atlanta thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "city",
+            "start": 33,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hello pls find where to eat near atlanta thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 31,
+            "entity": "city",
+            "start": 23,
+            "value": "new york"
+          }
+        ],
+        "text": "restaurants located at new york"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 49,
+            "entity": "city",
+            "start": 42,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hello pls help me find places to eat near atlanta city thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "city",
+            "start": 23,
+            "value": "san francisco"
+          }
+        ],
+        "text": "restaurants located at san francisco"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 47,
+            "entity": "city",
+            "start": 34,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hi pls restaurants in the area of san francisco city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 53,
+            "entity": "city",
+            "start": 45,
+            "value": "new york"
+          }
+        ],
+        "text": "hey please i'm looking for where to eat near new york city"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "city",
+            "start": 25,
+            "value": "san francisco"
+          }
+        ],
+        "text": "places to eat located at san francisco"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 44,
+            "entity": "city",
+            "start": 37,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hi please restaurants in the area of atlanta"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 44,
+            "entity": "city",
+            "start": 37,
+            "value": "atlanta"
+          }
+        ],
+        "text": "please find places to eat located at atlanta thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "city",
+            "start": 21,
+            "value": "atlanta"
+          }
+        ],
+        "text": "plz restaurants near atlanta city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "city",
+            "start": 28,
+            "value": "new york"
+          }
+        ],
+        "text": "where to eat in the area of new york"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 56,
+            "entity": "city",
+            "start": 49,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hey plz help me find where to eat in the area of atlanta thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 53,
+            "entity": "city",
+            "start": 46,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hi plz i'm looking for restaurants located at atlanta thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 43,
+            "entity": "city",
+            "start": 30,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hello where to eat located at san francisco thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "city",
+            "start": 34,
+            "value": "new york"
+          }
+        ],
+        "text": "hi help me find where to eat near new york city thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 49,
+            "entity": "city",
+            "start": 41,
+            "value": "new york"
+          }
+        ],
+        "text": "hello please where to eat in the area of new york thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 44,
+            "entity": "city",
+            "start": 31,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hey restaurants in the area of san francisco"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "city",
+            "start": 26,
+            "value": "san francisco"
+          }
+        ],
+        "text": "please places to eat near san francisco thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "city",
+            "start": 32,
+            "value": "atlanta"
+          }
+        ],
+        "text": "pls where to eat in the area of atlanta city thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 62,
+            "entity": "city",
+            "start": 49,
+            "value": "san francisco"
+          }
+        ],
+        "text": "plz i'm looking for places to eat in the area of san francisco thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 52,
+            "entity": "city",
+            "start": 45,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hey help me find where to eat in the area of atlanta city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "city",
+            "start": 39,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hey i'm looking for places to eat near atlanta city"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "city",
+            "start": 38,
+            "value": "new york"
+          }
+        ],
+        "text": "hey please restaurants in the area of new york city"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 35,
+            "entity": "city",
+            "start": 28,
+            "value": "atlanta"
+          }
+        ],
+        "text": "where to eat in the area of atlanta"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "city",
+            "start": 27,
+            "value": "san francisco"
+          }
+        ],
+        "text": "plz restaurants located at san francisco city thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 61,
+            "entity": "city",
+            "start": 48,
+            "value": "san francisco"
+          }
+        ],
+        "text": "pls i'm looking for where to eat in the area of san francisco city"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "city",
+            "start": 27,
+            "value": "san francisco"
+          }
+        ],
+        "text": "restaurants in the area of san francisco"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 64,
+            "entity": "city",
+            "start": 51,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hi please help me find where to eat in the area of san francisco city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 60,
+            "entity": "city",
+            "start": 47,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hey i'm looking for restaurants in the area of san francisco thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "city",
+            "start": 38,
+            "value": "new york"
+          }
+        ],
+        "text": "hello pls find restaurants located at new york city"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 61,
+            "entity": "city",
+            "start": 48,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hi pls help me find where to eat in the area of san francisco city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 49,
+            "entity": "city",
+            "start": 42,
+            "value": "atlanta"
+          }
+        ],
+        "text": "pls help me find places to eat located at atlanta thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "city",
+            "start": 29,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hello find where to eat near atlanta city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 45,
+            "entity": "city",
+            "start": 38,
+            "value": "atlanta"
+          }
+        ],
+        "text": "pls find places to eat in the area of atlanta city thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 45,
+            "entity": "city",
+            "start": 38,
+            "value": "atlanta"
+          }
+        ],
+        "text": "pls find places to eat in the area of atlanta thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "city",
+            "start": 32,
+            "value": "new york"
+          }
+        ],
+        "text": "pls find restaurants located at new york"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 61,
+            "entity": "city",
+            "start": 53,
+            "value": "new york"
+          }
+        ],
+        "text": "hello pls i'm looking for restaurants in the area of new york city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 54,
+            "entity": "city",
+            "start": 46,
+            "value": "new york"
+          }
+        ],
+        "text": "hey help me find places to eat in the area of new york thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 41,
+            "entity": "city",
+            "start": 33,
+            "value": "new york"
+          }
+        ],
+        "text": "hello plz restaurants located at new york city thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 62,
+            "entity": "city",
+            "start": 49,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hey i'm looking for places to eat in the area of san francisco city"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 54,
+            "entity": "city",
+            "start": 47,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hello please find places to eat in the area of atlanta"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 64,
+            "entity": "city",
+            "start": 51,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hello pls help me find where to eat in the area of san francisco city"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 47,
+            "entity": "city",
+            "start": 39,
+            "value": "new york"
+          }
+        ],
+        "text": "hello plz find where to eat located at new york"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 47,
+            "entity": "city",
+            "start": 40,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hey pls help me find places to eat near atlanta thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 49,
+            "entity": "city",
+            "start": 41,
+            "value": "new york"
+          }
+        ],
+        "text": "i'm looking for places to eat located at new york city thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 47,
+            "entity": "city",
+            "start": 40,
+            "value": "atlanta"
+          }
+        ],
+        "text": "pls help me find restaurants located at atlanta city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 54,
+            "entity": "city",
+            "start": 47,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hi please help me find where to eat located at atlanta"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 49,
+            "entity": "city",
+            "start": 41,
+            "value": "new york"
+          }
+        ],
+        "text": "hey pls i'm looking for restaurants near new york city"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "city",
+            "start": 30,
+            "value": "new york"
+          }
+        ],
+        "text": "hello where to eat located at new york thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "city",
+            "start": 31,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hi plz where to eat located at atlanta city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "city",
+            "start": 23,
+            "value": "atlanta"
+          }
+        ],
+        "text": "find where to eat near atlanta thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "city",
+            "start": 32,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hey where to eat in the area of atlanta"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "city",
+            "start": 26,
+            "value": "san francisco"
+          }
+        ],
+        "text": "pls find restaurants near san francisco thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "city",
+            "start": 35,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hi plz find restaurants located at atlanta thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 41,
+            "entity": "city",
+            "start": 28,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hi places to eat located at san francisco thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 49,
+            "entity": "city",
+            "start": 42,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hello help me find restaurants located at atlanta city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 55,
+            "entity": "city",
+            "start": 47,
+            "value": "new york"
+          }
+        ],
+        "text": "hey please help me find restaurants located at new york city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 51,
+            "entity": "city",
+            "start": 44,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hey please find where to eat in the area of atlanta city thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 60,
+            "entity": "city",
+            "start": 53,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hello please help me find restaurants in the area of atlanta city thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 61,
+            "entity": "city",
+            "start": 48,
+            "value": "san francisco"
+          }
+        ],
+        "text": "hey plz i'm looking for where to eat located at san francisco thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 49,
+            "entity": "city",
+            "start": 42,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hey help me find places to eat located at atlanta thank you"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 48,
+            "entity": "city",
+            "start": 40,
+            "value": "new york"
+          }
+        ],
+        "text": "hey plz help me find places to eat near new york"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 48,
+            "entity": "city",
+            "start": 41,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hello pls help me find where to eat near atlanta thanks"
+      },
+      {
+        "intent": "findRestaurantsByCity",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "city",
+            "start": 35,
+            "value": "atlanta"
+          }
+        ],
+        "text": "hello please find restaurants near atlanta city thanks"
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hello are you around?"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good night how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good night sup"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good night how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good night how are you"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good morning are you there"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good day"
+      },
+      {
+        "intent": "greet",
+        "text": "hey greetings sup"
+      },
+      {
+        "intent": "greet",
+        "text": "hey are you there"
+      },
+      {
+        "intent": "greet",
+        "text": "good night"
+      },
+      {
+        "intent": "greet",
+        "text": "hi how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "hi morning are you there"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good day how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good afternoon how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "good night are you around"
+      },
+      {
+        "intent": "greet",
+        "text": "good night whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good night how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good day how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "good day sup"
+      },
+      {
+        "intent": "greet",
+        "text": "hey whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hey greetings how are you"
+      },
+      {
+        "intent": "greet",
+        "text": "hi greetings how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "good night are you around?"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good day whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hi morning how are you"
+      },
+      {
+        "intent": "greet",
+        "text": "hello how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "hello are you around"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good afternoon how are things going"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good afternoon how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "good afternoon are you there"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good day whats up"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good night whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hello greetings how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good afternoon whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good day are you around"
+      },
+      {
+        "intent": "greet",
+        "text": "hi greetings whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good afternoon are you around?"
+      },
+      {
+        "intent": "greet",
+        "text": "good afternoon whats up"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good morning how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good afternoon whats up"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings how are things going"
+      },
+      {
+        "intent": "greet",
+        "text": "hey morning whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "good night sup"
+      },
+      {
+        "intent": "greet",
+        "text": "hello greetings how are things going"
+      },
+      {
+        "intent": "greet",
+        "text": "hello morning"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good afternoon how are things going"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good afternoon how are things going"
+      },
+      {
+        "intent": "bye",
+        "text": "bye"
+      },
+      {
+        "intent": "bye",
+        "text": "adieu"
+      },
+      {
+        "intent": "bye",
+        "text": "farewell"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving chau"
+      },
+      {
+        "intent": "bye",
+        "text": "going out bye"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "chao thanks"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon bye"
+      },
+      {
+        "intent": "bye",
+        "text": "adios"
+      },
+      {
+        "intent": "bye",
+        "text": "thank you adios"
+      },
+      {
+        "intent": "bye",
+        "text": "adios thank you"
+      },
+      {
+        "intent": "bye",
+        "text": "thank you adieu"
+      },
+      {
+        "intent": "bye",
+        "text": "ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "thanks goodbye"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving farewell"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon farewell"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now chau"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving adios"
+      },
+      {
+        "intent": "bye",
+        "text": "chau"
+      },
+      {
+        "intent": "bye",
+        "text": "adios thanks"
+      },
+      {
+        "intent": "bye",
+        "text": "adieu thank you"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later chau"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon chau"
+      },
+      {
+        "intent": "bye",
+        "text": "have to go ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go bye"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "thank you chau"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now bye"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now goodbye"
+      },
+      {
+        "intent": "bye",
+        "text": "farewell thanks"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later chao"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later goodbye"
+      },
+      {
+        "intent": "bye",
+        "text": "thank you gtg"
+      },
+      {
+        "intent": "bye",
+        "text": "chau thank you"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later gtg"
+      },
+      {
+        "intent": "bye",
+        "text": "chau thanks"
+      },
+      {
+        "intent": "bye",
+        "text": "have to go gtg"
+      },
+      {
+        "intent": "bye",
+        "text": "heading out goodbye"
+      },
+      {
+        "intent": "bye",
+        "text": "have to go chao"
+      },
+      {
+        "intent": "bye",
+        "text": "going out"
+      },
+      {
+        "intent": "bye",
+        "text": "heading out chao"
+      },
+      {
+        "intent": "bye",
+        "text": "going out ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving chao"
+      },
+      {
+        "intent": "bye",
+        "text": "thank you farewell"
+      },
+      {
+        "intent": "bye",
+        "text": "going out goodbye"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "goodbye thank you"
+      },
+      {
+        "intent": "bye",
+        "text": "thanks adios"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct please"
+      },
+      {
+        "intent": "affirmative",
+        "text": "sounds good that is what i want agreed"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct i want that yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed agreed thanks"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative that is right agreed"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed that is good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct that is good right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right you understood me im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that yep thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir that is right correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right that is correct sounds good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that that is good correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed you understood me affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep yep thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that good yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir thanks"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir that is correct affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that that is right yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes agreed thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir that is what i want im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes that is correct yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "sounds good that is good affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep i want that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct that is fine right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir i want that sounds good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir its fine right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir good im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right right thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir that is what i want affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative its fine im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "that is right yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right that is fine right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "sounds good good sounds good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed that is right yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "that is good yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep sounds good thanks"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed you understood me yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that agreed"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed that is what i want im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes i want that affirmative"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect please its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "not really dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect plz dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right pls that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "pls don't do that"
+      },
+      {
+        "intent": "negative",
+        "text": "pls nope dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that that's not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "nope pls that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "nope didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "that's wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right that's not what i want"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not what i want"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that please that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that pls didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "plz no that's not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "plz no it's not good"
+      },
+      {
+        "intent": "negative",
+        "text": "not really"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right"
+      },
+      {
+        "intent": "negative",
+        "text": "no please its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "pls incorrect i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "plz that's not right i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "please not really its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "plz no i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "nope pls it's not good"
+      },
+      {
+        "intent": "negative",
+        "text": "didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "please don't do that that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right please dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "please incorrect that's not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "not really pls didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "no plz that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "nope please its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right please its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect"
+      },
+      {
+        "intent": "negative",
+        "text": "i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "no that's wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "not really it's not good"
+      },
+      {
+        "intent": "negative",
+        "text": "nope please its not ok"
+      },
+      {
+        "intent": "negative",
+        "text": "nope plz dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "plz not really that's not what i want"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "no it's not good"
+      },
+      {
+        "intent": "negative",
+        "text": "no please"
+      },
+      {
+        "intent": "negative",
+        "text": "not really i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect pls that is wrong"
+      },
+      {
+        "intent": "extra",
+        "text": "Hi"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

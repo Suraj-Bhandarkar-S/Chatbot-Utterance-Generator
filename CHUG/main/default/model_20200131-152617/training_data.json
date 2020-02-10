@@ -1,0 +1,3021 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 19,
+            "end": 35,
+            "value": "Loan Transaction",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Make like To Loan Transaction "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 19,
+            "end": 30,
+            "value": "Transaction",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Make like To Transaction "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 19,
+            "end": 33,
+            "value": "Money Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Make like To Money Transfer "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 19,
+            "end": 33,
+            "value": "Transfer Money",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Make like To Transfer Money "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 18,
+            "end": 31,
+            "value": "Self Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Make like To Self Transfer "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "Loan Transaction",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Could like To Loan Transaction "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 20,
+            "end": 31,
+            "value": "Transaction",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Could like To Transaction "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 20,
+            "end": 34,
+            "value": "Money Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Could like To Money Transfer "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 20,
+            "end": 34,
+            "value": "Transfer Money",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Could like To Transfer Money "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 19,
+            "end": 32,
+            "value": "Self Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Could like To Self Transfer "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 19,
+            "end": 35,
+            "value": "Loan Transaction",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Need like To Loan Transaction "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 19,
+            "end": 30,
+            "value": "Transaction",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Need like To Transaction "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 19,
+            "end": 33,
+            "value": "Money Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Need like To Money Transfer "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 19,
+            "end": 33,
+            "value": "Transfer Money",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Need like To Transfer Money "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 18,
+            "end": 31,
+            "value": "Self Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Need like To Self Transfer "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "Loan Transaction",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Place like To Loan Transaction "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 20,
+            "end": 31,
+            "value": "Transaction",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Place like To Transaction "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 20,
+            "end": 34,
+            "value": "Money Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Place like To Money Transfer "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 20,
+            "end": 34,
+            "value": "Transfer Money",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Place like To Transfer Money "
+      },
+      {
+        "intent": "Transaction",
+        "entities": [
+          {
+            "start": 19,
+            "end": 32,
+            "value": "Self Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Place like To Self Transfer "
+      },
+      {
+        "intent": "Bank Balance",
+        "entities": [
+          {
+            "start": 11,
+            "end": 16,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Money "
+      },
+      {
+        "intent": "Bank Balance",
+        "entities": [
+          {
+            "start": 12,
+            "end": 27,
+            "value": "Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Account Balance "
+      },
+      {
+        "intent": "Bank Balance",
+        "entities": [
+          {
+            "start": 12,
+            "end": 36,
+            "value": "Checking Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Checking Account Balance "
+      },
+      {
+        "intent": "Bank Balance",
+        "entities": [
+          {
+            "start": 11,
+            "end": 33,
+            "value": "Saving Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Saving Account Balance "
+      },
+      {
+        "intent": "Bank Balance",
+        "entities": [
+          {
+            "start": 8,
+            "end": 13,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Money "
+      },
+      {
+        "intent": "Bank Balance",
+        "entities": [
+          {
+            "start": 9,
+            "end": 24,
+            "value": "Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Account Balance "
+      },
+      {
+        "intent": "Bank Balance",
+        "entities": [
+          {
+            "start": 9,
+            "end": 33,
+            "value": "Checking Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Checking Account Balance "
+      },
+      {
+        "intent": "Bank Balance",
+        "entities": [
+          {
+            "start": 8,
+            "end": 30,
+            "value": "Saving Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Saving Account Balance "
+      },
+      {
+        "intent": "Bank Balance",
+        "entities": [
+          {
+            "start": 12,
+            "end": 27,
+            "value": "Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Account Balance "
+      },
+      {
+        "intent": "Bank Balance",
+        "entities": [
+          {
+            "start": 12,
+            "end": 36,
+            "value": "Checking Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Checking Account Balance "
+      },
+      {
+        "intent": "Bank Balance",
+        "entities": [
+          {
+            "start": 11,
+            "end": 33,
+            "value": "Saving Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Saving Account Balance "
+      },
+      {
+        "intent": "Bank Balance",
+        "entities": [
+          {
+            "start": 9,
+            "end": 24,
+            "value": "Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Account Balance "
+      },
+      {
+        "intent": "Bank Balance",
+        "entities": [
+          {
+            "start": 9,
+            "end": 33,
+            "value": "Checking Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Checking Account Balance "
+      },
+      {
+        "intent": "Bank Balance",
+        "entities": [
+          {
+            "start": 8,
+            "end": 30,
+            "value": "Saving Account Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Saving Account Balance "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 23,
+            "end": 30,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " I need like new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 23,
+            "end": 39,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " I need like new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 22,
+            "end": 36,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " I need like new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 20,
+            "end": 27,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " I need a new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " I need a new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 19,
+            "end": 33,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " I need a new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 23,
+            "end": 30,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " I need open new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 23,
+            "end": 39,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " I need open new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 22,
+            "end": 36,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " I need open new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 27,
+            "end": 34,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Could need like new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 27,
+            "end": 43,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Could need like new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 26,
+            "end": 40,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Could need like new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 24,
+            "end": 31,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Could need a new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 24,
+            "end": 40,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Could need a new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 23,
+            "end": 37,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Could need a new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 27,
+            "end": 34,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Could need open new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 27,
+            "end": 43,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Could need open new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 26,
+            "end": 40,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Could need open new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 27,
+            "end": 34,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Would need like new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 27,
+            "end": 43,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Would need like new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 26,
+            "end": 40,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Would need like new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 24,
+            "end": 31,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Would need a new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 24,
+            "end": 40,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Would need a new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 23,
+            "end": 37,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Would need a new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 27,
+            "end": 34,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Would need open new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 27,
+            "end": 43,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Would need open new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 26,
+            "end": 40,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Would need open new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 16,
+            "end": 23,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Ineedlike new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 16,
+            "end": 32,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Ineedlike new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 15,
+            "end": 29,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Ineedlike new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 13,
+            "end": 20,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Ineeda new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 13,
+            "end": 29,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Ineeda new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 12,
+            "end": 26,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Ineeda new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 16,
+            "end": 23,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Ineedopen new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 16,
+            "end": 32,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Ineedopen new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 15,
+            "end": 29,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Ineedopen new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 20,
+            "end": 27,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Couldneedlike new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Couldneedlike new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 19,
+            "end": 33,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Couldneedlike new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Couldneeda new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 17,
+            "end": 33,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Couldneeda new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 16,
+            "end": 30,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Couldneeda new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 20,
+            "end": 27,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Couldneedopen new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Couldneedopen new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 19,
+            "end": 33,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Couldneedopen new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 20,
+            "end": 27,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Wouldneedlike new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Wouldneedlike new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 19,
+            "end": 33,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Wouldneedlike new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Wouldneeda new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 17,
+            "end": 33,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Wouldneeda new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 16,
+            "end": 30,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Wouldneeda new Saving Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 20,
+            "end": 27,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Wouldneedopen new Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Wouldneedopen new Checking Account "
+      },
+      {
+        "intent": "NewAccount",
+        "entities": [
+          {
+            "start": 19,
+            "end": 33,
+            "value": "Saving Account",
+            "entity": "Account"
+          }
+        ],
+        "text": "Wouldneedopen new Saving Account "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 19,
+            "end": 32,
+            "value": "Self Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "I like to make Self Transfer "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "I like to make Transfer "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 18,
+            "end": 32,
+            "value": "Transfer money",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "I like to make Transfer money "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 23,
+            "end": 36,
+            "value": "Self Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "Could like to make Self Transfer "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 23,
+            "end": 31,
+            "value": "Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "Could like to make Transfer "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 22,
+            "end": 36,
+            "value": "Transfer money",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "Could like to make Transfer money "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 23,
+            "end": 36,
+            "value": "Self Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "Would like to make Self Transfer "
+      },
+      {
+        "intent": "Bank Transaction",
+        "entities": [
+          {
+            "start": 23,
+            "end": 31,
+            "value": "Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": "Would like to make Transfer "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " my Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 11,
+            "end": 23,
+            "value": "Loan Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " my Loan Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 11,
+            "end": 27,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " my Checking Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 10,
+            "end": 25,
+            "value": "Savings Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " my Savings Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 16,
+            "end": 23,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Check my Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 16,
+            "end": 28,
+            "value": "Loan Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Check my Loan Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 16,
+            "end": 32,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Check my Checking Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 15,
+            "end": 30,
+            "value": "Savings Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Check my Savings Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 14,
+            "end": 21,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " See my Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 14,
+            "end": 26,
+            "value": "Loan Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " See my Loan Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 14,
+            "end": 30,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " See my Checking Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 13,
+            "end": 28,
+            "value": "Savings Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " See my Savings Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 14,
+            "end": 21,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Can my Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 14,
+            "end": 26,
+            "value": "Loan Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Can my Loan Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 14,
+            "end": 30,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Can my Checking Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 13,
+            "end": 28,
+            "value": "Savings Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Can my Savings Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 18,
+            "end": 25,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Provide my Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 18,
+            "end": 30,
+            "value": "Loan Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Provide my Loan Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 18,
+            "end": 34,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Provide my Checking Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 17,
+            "end": 32,
+            "value": "Savings Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Provide my Savings Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 15,
+            "end": 22,
+            "value": "Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Show my Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 15,
+            "end": 27,
+            "value": "Loan Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Show my Loan Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 15,
+            "end": 31,
+            "value": "Checking Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Show my Checking Account Balance "
+      },
+      {
+        "intent": "Balance",
+        "entities": [
+          {
+            "start": 14,
+            "end": 29,
+            "value": "Savings Account",
+            "entity": "Account"
+          }
+        ],
+        "text": " Show my Savings Account Balance "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 34,
+            "end": 38,
+            "value": "Loan",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Transfer like bill Paid to Loan "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 34,
+            "end": 39,
+            "value": "Hotel",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Transfer like bill Paid to Hotel "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 34,
+            "end": 44,
+            "value": "Creditcard",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Transfer like bill Paid to Creditcard "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 34,
+            "end": 37,
+            "value": "Gas",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Transfer like bill Paid to Gas "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 34,
+            "end": 40,
+            "value": "BESCOM",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Transfer like bill Paid to BESCOM "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 27,
+            "end": 31,
+            "value": "Loan",
+            "entity": "Payments"
+          }
+        ],
+        "text": " I like bill Paid to Loan "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 27,
+            "end": 32,
+            "value": "Hotel",
+            "entity": "Payments"
+          }
+        ],
+        "text": " I like bill Paid to Hotel "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 27,
+            "end": 37,
+            "value": "Creditcard",
+            "entity": "Payments"
+          }
+        ],
+        "text": " I like bill Paid to Creditcard "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 27,
+            "end": 30,
+            "value": "Gas",
+            "entity": "Payments"
+          }
+        ],
+        "text": " I like bill Paid to Gas "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 27,
+            "end": 33,
+            "value": "BESCOM",
+            "entity": "Payments"
+          }
+        ],
+        "text": " I like bill Paid to BESCOM "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 30,
+            "end": 34,
+            "value": "Loan",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Need like bill Paid to Loan "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 30,
+            "end": 35,
+            "value": "Hotel",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Need like bill Paid to Hotel "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 30,
+            "end": 40,
+            "value": "Creditcard",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Need like bill Paid to Creditcard "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 30,
+            "end": 33,
+            "value": "Gas",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Need like bill Paid to Gas "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 30,
+            "end": 36,
+            "value": "BESCOM",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Need like bill Paid to BESCOM "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 31,
+            "end": 35,
+            "value": "Loan",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Could like bill Paid to Loan "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 31,
+            "end": 36,
+            "value": "Hotel",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Could like bill Paid to Hotel "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 31,
+            "end": 41,
+            "value": "Creditcard",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Could like bill Paid to Creditcard "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 31,
+            "end": 34,
+            "value": "Gas",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Could like bill Paid to Gas "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 31,
+            "end": 37,
+            "value": "BESCOM",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Could like bill Paid to BESCOM "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 31,
+            "end": 35,
+            "value": "Loan",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Would like bill Paid to Loan "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 31,
+            "end": 36,
+            "value": "Hotel",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Would like bill Paid to Hotel "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 31,
+            "end": 41,
+            "value": "Creditcard",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Would like bill Paid to Creditcard "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 31,
+            "end": 34,
+            "value": "Gas",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Would like bill Paid to Gas "
+      },
+      {
+        "intent": "Bill Payment",
+        "entities": [
+          {
+            "start": 31,
+            "end": 37,
+            "value": "BESCOM",
+            "entity": "Payments"
+          }
+        ],
+        "text": " Would like bill Paid to BESCOM "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 16,
+            "end": 31,
+            "value": "Transfer to Dad",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " I Need To Transfer to Dad "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 16,
+            "end": 31,
+            "value": "Transfer To Mom",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " I Need To Transfer To Mom "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 16,
+            "end": 32,
+            "value": "Bill Transaction",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " I Need To Bill Transaction "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 16,
+            "end": 32,
+            "value": "Loan Transaction",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " I Need To Loan Transaction "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 15,
+            "end": 28,
+            "value": "Self Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " I Need To Self Transfer "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 20,
+            "end": 35,
+            "value": "Transfer to Dad",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Could Need To Transfer to Dad "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 20,
+            "end": 35,
+            "value": "Transfer To Mom",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Could Need To Transfer To Mom "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "Bill Transaction",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Could Need To Bill Transaction "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "Loan Transaction",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Could Need To Loan Transaction "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 19,
+            "end": 32,
+            "value": "Self Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Could Need To Self Transfer "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 20,
+            "end": 35,
+            "value": "Transfer to Dad",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Would Need To Transfer to Dad "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 20,
+            "end": 35,
+            "value": "Transfer To Mom",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Would Need To Transfer To Mom "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "Bill Transaction",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Would Need To Bill Transaction "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "Loan Transaction",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Would Need To Loan Transaction "
+      },
+      {
+        "intent": "Transfer",
+        "entities": [
+          {
+            "start": 19,
+            "end": 32,
+            "value": "Self Transfer",
+            "entity": "Transaction"
+          }
+        ],
+        "text": " Would Need To Self Transfer "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 29,
+            "end": 34,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me See I my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 29,
+            "end": 36,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me See I my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 29,
+            "end": 43,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me See I my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 29,
+            "end": 45,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me See I my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 35,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me See I my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 37,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me See I my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 44,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me See I my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 46,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me See I my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 35,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me See I my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 37,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me See I my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 44,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me See I my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 46,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me See I my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 28,
+            "end": 33,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me See I my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 28,
+            "end": 35,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me See I my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 28,
+            "end": 42,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me See I my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 28,
+            "end": 44,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me See I my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 21,
+            "end": 26,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 21,
+            "end": 28,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 21,
+            "end": 35,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 21,
+            "end": 37,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 27,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 29,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 36,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 38,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 27,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 29,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 36,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 38,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 20,
+            "end": 25,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 20,
+            "end": 27,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 20,
+            "end": 34,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 11,
+            "end": 16,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 11,
+            "end": 27,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 8,
+            "end": 13,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 8,
+            "end": 24,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Checking Balance "
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hello are you around?"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good night how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good night sup"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good night how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good night how are you"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good morning are you there"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good day"
+      },
+      {
+        "intent": "greet",
+        "text": "hey greetings sup"
+      },
+      {
+        "intent": "greet",
+        "text": "hey are you there"
+      },
+      {
+        "intent": "greet",
+        "text": "good night"
+      },
+      {
+        "intent": "greet",
+        "text": "hi how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "hi morning are you there"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good day how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good afternoon how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "good night are you around"
+      },
+      {
+        "intent": "greet",
+        "text": "good night whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good night how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good day how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "good day sup"
+      },
+      {
+        "intent": "greet",
+        "text": "hey whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hey greetings how are you"
+      },
+      {
+        "intent": "greet",
+        "text": "hi greetings how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "good night are you around?"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good day whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hi morning how are you"
+      },
+      {
+        "intent": "greet",
+        "text": "hello how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "hello are you around"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good afternoon how are things going"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good afternoon how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "good afternoon are you there"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good day whats up"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good night whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hello greetings how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good afternoon whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good day are you around"
+      },
+      {
+        "intent": "greet",
+        "text": "hi greetings whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good afternoon are you around?"
+      },
+      {
+        "intent": "greet",
+        "text": "good afternoon whats up"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good morning how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good afternoon whats up"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings how are things going"
+      },
+      {
+        "intent": "greet",
+        "text": "hey morning whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "good night sup"
+      },
+      {
+        "intent": "greet",
+        "text": "hello greetings how are things going"
+      },
+      {
+        "intent": "greet",
+        "text": "hello morning"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good afternoon how are things going"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good afternoon how are things going"
+      },
+      {
+        "intent": "bye",
+        "text": "thanks adios"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct please"
+      },
+      {
+        "intent": "affirmative",
+        "text": "sounds good that is what i want agreed"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct i want that yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed agreed thanks"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative that is right agreed"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed that is good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct that is good right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right you understood me im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that yep thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir that is right correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right that is correct sounds good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that that is good correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed you understood me affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep yep thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that good yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir thanks"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir that is correct affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that that is right yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes agreed thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir that is what i want im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes that is correct yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "sounds good that is good affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep i want that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct that is fine right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir i want that sounds good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir its fine right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir good im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right right thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir that is what i want affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative its fine im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "that is right yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right that is fine right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "sounds good good sounds good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed that is right yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "that is good yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep sounds good thanks"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed you understood me yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that agreed"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed that is what i want im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes i want that affirmative"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect please its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "not really dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect plz dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right pls that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "pls don't do that"
+      },
+      {
+        "intent": "negative",
+        "text": "pls nope dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that that's not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "nope pls that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "nope didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "that's wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right that's not what i want"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not what i want"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that please that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that pls didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "plz no that's not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "plz no it's not good"
+      },
+      {
+        "intent": "negative",
+        "text": "not really"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right"
+      },
+      {
+        "intent": "negative",
+        "text": "no please its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "pls incorrect i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "plz that's not right i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "please not really its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "plz no i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "nope pls it's not good"
+      },
+      {
+        "intent": "negative",
+        "text": "didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "please don't do that that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right please dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "please incorrect that's not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "not really pls didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "no plz that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "nope please its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right please its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect"
+      },
+      {
+        "intent": "negative",
+        "text": "i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "no that's wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "not really it's not good"
+      },
+      {
+        "intent": "negative",
+        "text": "nope please its not ok"
+      },
+      {
+        "intent": "negative",
+        "text": "nope plz dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "plz not really that's not what i want"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "no it's not good"
+      },
+      {
+        "intent": "negative",
+        "text": "no please"
+      },
+      {
+        "intent": "negative",
+        "text": "not really i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect pls that is wrong"
+      },
+      {
+        "intent": "extra",
+        "text": "Hi"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

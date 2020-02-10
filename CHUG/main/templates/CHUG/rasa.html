@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Utterance generator</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body>
+<nav class="navbar navbar navbar-light bg-warning">
+
+<h5> <b>ChatBot-Utterance Generator</b> by <b>Team Arrow</b></h5>
+<a href="/input/"><button class="btn-primary" >Utterance Generator</button></a>
+  </div>
+</nav>
+<br>
+<div class="container">
+	<form method="POST" action="/rasa_base/">
+	{% csrf_token %}
+		<div class="form-inline">
+  <div class="form-group p-2">
+    <label for="intent"><b>User input: &nbsp </b></label>
+    <input type="text" style="width:900px;"class="form-control" id="user" name="user" aria-describedby="emailHelp" placeholder="Intent Name" required="">
+     </div><button type="submit" class="btn btn-primary">Submit</button>
+  </div>
+  
+</form>
+</div>
+
+<div class="container">
+					<div class="row">
+						<div class="col-md-12 col-xs-12 output-label bg-light ">
+								<div class="bg-warning" ><b> Your JSON Output: </b></div>
+								<pre>{{ data | pprint }}</pre>	
+						</div>
+				
+
+
+					
+					</div>
+				
+				
+				
+				</div>	
+</body>
+</html>

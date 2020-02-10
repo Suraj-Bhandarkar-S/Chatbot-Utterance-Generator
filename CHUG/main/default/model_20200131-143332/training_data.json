@@ -1,0 +1,1293 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 29,
+            "end": 34,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me See I my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 29,
+            "end": 36,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me See I my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 29,
+            "end": 43,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me See I my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 29,
+            "end": 45,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me See I my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 35,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me See I my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 37,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me See I my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 44,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me See I my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 46,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me See I my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 35,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me See I my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 37,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me See I my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 44,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me See I my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 30,
+            "end": 46,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me See I my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 28,
+            "end": 33,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me See I my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 28,
+            "end": 35,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me See I my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 28,
+            "end": 42,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me See I my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 28,
+            "end": 44,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me See I my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 21,
+            "end": 26,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 21,
+            "end": 28,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 21,
+            "end": 35,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 21,
+            "end": 37,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show me my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 27,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 29,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 36,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 38,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Could me my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 27,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 29,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 36,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 22,
+            "end": 38,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Would me my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 20,
+            "end": 25,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me my may Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 20,
+            "end": 27,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me my may Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 20,
+            "end": 34,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me my may Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 20,
+            "end": 36,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Can me my may Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 11,
+            "end": 16,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 11,
+            "end": 25,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 11,
+            "end": 27,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Provide Checking Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 8,
+            "end": 13,
+            "value": "Money",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Money "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Saving_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Saving Balance "
+      },
+      {
+        "intent": "Account Balance",
+        "entities": [
+          {
+            "start": 8,
+            "end": 24,
+            "value": "Checking_Balance",
+            "entity": "Balance"
+          }
+        ],
+        "text": " Show Checking Balance "
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hello are you around?"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good night how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good night sup"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good night how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good night how are you"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good morning are you there"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good day"
+      },
+      {
+        "intent": "greet",
+        "text": "hey greetings sup"
+      },
+      {
+        "intent": "greet",
+        "text": "hey are you there"
+      },
+      {
+        "intent": "greet",
+        "text": "good night"
+      },
+      {
+        "intent": "greet",
+        "text": "hi how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "hi morning are you there"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good day how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good afternoon how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "good night are you around"
+      },
+      {
+        "intent": "greet",
+        "text": "good night whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good night how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good day how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "good day sup"
+      },
+      {
+        "intent": "greet",
+        "text": "hey whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hey greetings how are you"
+      },
+      {
+        "intent": "greet",
+        "text": "hi greetings how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "good night are you around?"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good day whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hi morning how are you"
+      },
+      {
+        "intent": "greet",
+        "text": "hello how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "hello are you around"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good afternoon how are things going"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good afternoon how are you doing"
+      },
+      {
+        "intent": "greet",
+        "text": "good afternoon are you there"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good day whats up"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good night whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hello greetings how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good afternoon whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good day are you around"
+      },
+      {
+        "intent": "greet",
+        "text": "hi greetings whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good afternoon are you around?"
+      },
+      {
+        "intent": "greet",
+        "text": "good afternoon whats up"
+      },
+      {
+        "intent": "greet",
+        "text": "hey good morning how is it going"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good afternoon whats up"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings how are things going"
+      },
+      {
+        "intent": "greet",
+        "text": "hey morning whatsup"
+      },
+      {
+        "intent": "greet",
+        "text": "good night sup"
+      },
+      {
+        "intent": "greet",
+        "text": "hello greetings how are things going"
+      },
+      {
+        "intent": "greet",
+        "text": "hello morning"
+      },
+      {
+        "intent": "greet",
+        "text": "hi good afternoon how are things going"
+      },
+      {
+        "intent": "greet",
+        "text": "hello good afternoon how are things going"
+      },
+      {
+        "intent": "bye",
+        "text": "bye"
+      },
+      {
+        "intent": "bye",
+        "text": "adieu"
+      },
+      {
+        "intent": "bye",
+        "text": "farewell"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving chau"
+      },
+      {
+        "intent": "bye",
+        "text": "going out bye"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "chao thanks"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon bye"
+      },
+      {
+        "intent": "bye",
+        "text": "adios"
+      },
+      {
+        "intent": "bye",
+        "text": "thank you adios"
+      },
+      {
+        "intent": "bye",
+        "text": "adios thank you"
+      },
+      {
+        "intent": "bye",
+        "text": "thank you adieu"
+      },
+      {
+        "intent": "bye",
+        "text": "ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "thanks goodbye"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving farewell"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon farewell"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now chau"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving adios"
+      },
+      {
+        "intent": "bye",
+        "text": "chau"
+      },
+      {
+        "intent": "bye",
+        "text": "adios thanks"
+      },
+      {
+        "intent": "bye",
+        "text": "adieu thank you"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later chau"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon chau"
+      },
+      {
+        "intent": "bye",
+        "text": "have to go ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go bye"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you soon ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "thank you chau"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now bye"
+      },
+      {
+        "intent": "bye",
+        "text": "im leaving now goodbye"
+      },
+      {
+        "intent": "bye",
+        "text": "farewell thanks"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later chao"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later goodbye"
+      },
+      {
+        "intent": "bye",
+        "text": "thank you gtg"
+      },
+      {
+        "intent": "bye",
+        "text": "chau thank you"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later gtg"
+      },
+      {
+        "intent": "bye",
+        "text": "chau thanks"
+      },
+      {
+        "intent": "bye",
+        "text": "have to go gtg"
+      },
+      {
+        "intent": "bye",
+        "text": "heading out goodbye"
+      },
+      {
+        "intent": "bye",
+        "text": "have to go chao"
+      },
+      {
+        "intent": "bye",
+        "text": "going out"
+      },
+      {
+        "intent": "bye",
+        "text": "heading out chao"
+      },
+      {
+        "intent": "bye",
+        "text": "going out ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "leaving chao"
+      },
+      {
+        "intent": "bye",
+        "text": "thank you farewell"
+      },
+      {
+        "intent": "bye",
+        "text": "going out goodbye"
+      },
+      {
+        "intent": "bye",
+        "text": "got to go ttyl"
+      },
+      {
+        "intent": "bye",
+        "text": "goodbye thank you"
+      },
+      {
+        "intent": "bye",
+        "text": "thanks adios"
+      },
+      {
+        "intent": "bye",
+        "text": "talk to you later"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct please"
+      },
+      {
+        "intent": "affirmative",
+        "text": "sounds good that is what i want agreed"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct i want that yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed agreed thanks"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative that is right agreed"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed that is good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct that is good right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right you understood me im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that yep thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir that is right correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right that is correct sounds good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that that is good correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed you understood me affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep yep thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that good yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir thanks"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir that is correct affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that that is right yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes agreed thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir that is what i want im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes that is correct yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir"
+      },
+      {
+        "intent": "affirmative",
+        "text": "sounds good that is good affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep i want that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct that is fine right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir i want that sounds good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir its fine right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir good im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right right thank you"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes sir that is what i want affirmative"
+      },
+      {
+        "intent": "affirmative",
+        "text": "correct"
+      },
+      {
+        "intent": "affirmative",
+        "text": "affirmative its fine im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "that is right yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "right that is fine right"
+      },
+      {
+        "intent": "affirmative",
+        "text": "sounds good good sounds good"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed that is right yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "that is good yep"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yep sounds good thanks"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed you understood me yes"
+      },
+      {
+        "intent": "affirmative",
+        "text": "im ok with that agreed"
+      },
+      {
+        "intent": "affirmative",
+        "text": "agreed that is what i want im ok with that"
+      },
+      {
+        "intent": "affirmative",
+        "text": "yes i want that affirmative"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect please its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "not really dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect plz dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right pls that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "pls don't do that"
+      },
+      {
+        "intent": "negative",
+        "text": "pls nope dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that that's not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "nope pls that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "nope didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "that's wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right that's not what i want"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not what i want"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that please that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that pls didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "plz no that's not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "plz no it's not good"
+      },
+      {
+        "intent": "negative",
+        "text": "not really"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right"
+      },
+      {
+        "intent": "negative",
+        "text": "no please its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "pls incorrect i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "plz that's not right i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "please not really its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "plz no i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "nope pls it's not good"
+      },
+      {
+        "intent": "negative",
+        "text": "didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "please don't do that that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right please dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "please incorrect that's not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "not really pls didnt meant that"
+      },
+      {
+        "intent": "negative",
+        "text": "no plz that is wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "nope please its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "that's not right please its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect"
+      },
+      {
+        "intent": "negative",
+        "text": "i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "no that's wrong"
+      },
+      {
+        "intent": "negative",
+        "text": "not really it's not good"
+      },
+      {
+        "intent": "negative",
+        "text": "nope please its not ok"
+      },
+      {
+        "intent": "negative",
+        "text": "nope plz dont mean that"
+      },
+      {
+        "intent": "negative",
+        "text": "plz not really that's not what i want"
+      },
+      {
+        "intent": "negative",
+        "text": "don't do that its not correct"
+      },
+      {
+        "intent": "negative",
+        "text": "no it's not good"
+      },
+      {
+        "intent": "negative",
+        "text": "no please"
+      },
+      {
+        "intent": "negative",
+        "text": "not really i don't want that"
+      },
+      {
+        "intent": "negative",
+        "text": "incorrect pls that is wrong"
+      },
+      {
+        "intent": "extra",
+        "text": "Hi"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
